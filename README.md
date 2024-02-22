@@ -1,1 +1,1 @@
-Note that this is just a repository so that the Quick Vanilla+ modpack can download Inventory HUD+, Litematica and 
+Note that this is just a repository so that the Quick Vanilla+ modpack can download Inventory HUD+, Litematica and Mini HUD. This is required as these mods are only available in curseforge which modrinth doesn't support.
